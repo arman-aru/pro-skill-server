@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "The Complete Guide Professional Graphics Design",
+    "title":"Being a successful graphic designer requires quality curriculum training as well as project-based work experience and a good understanding of the marketplace. So all these are included together in our course module. From the graphic design course you will learn to design any advertisement, banner, t-shirt design, product using Adobe Photoshop and Adobe Illustrator. Moreover, you get the opportunity to use modern lab for project based work. By completing the course this way, you will have practical work experience, which will help you to achieve quick success in the marketplace.",
+    "rating":4.9,
+     "reviews":89,
+     "total_hours":7.5,
+     "price": 13.99,
+     "img":"https://www.creativeitinstitute.com/images/course/course_1665409737.jpg"
+     
+
+
+  },
+ 
+  {
+    "id": 2,
+    "name": "The Complete Guide Professional Motion Graphics Design",
+    "title":"Elements of graphic design are presented in motion graphics through film or video production. For example, a motion graphics designer makes the short broadcasting video before the news broadcast on any TV channel. So our graphic design course is designed from the basics of graphic design. From this course you can learn 2D and 3D Motion Graphics; Through which you can easily create any social media ad. Moreover, you will learn the details of video editing, which will be helpful for you in making any commercial video. And the details of the animation are there.",
+    "rating":4.00,
+     "reviews":44,
+     "total_hours":3.5,
+     "price":100,
+     "img":"https://www.creativeitinstitute.com/images/course/course_1662552115.jpg"
+
+
+  },
+  {
+    "id": 3,
+    "name": "The Complete Guide Professional UI UX Design",
+    "title":"Where an app or site can have what options are designed through UX/UI Design. Demand for UX/UI designers has also increased hundreds of times for smart work and good salary. So our course will cover you with basic sketching. Learn how to create a flowchart for designing a website, app or banner here. You will learn the use of trendy software Adobe XD and Figma for UX/UI from this course. Moreover, by completing the course projects, you can create your portfolio at the end of the course from the class itself. This portfolio will be the milestone of your skills at the beginning of your career.",
+    "rating":4.5,
+     "reviews":799,
+     "total_hours":2.5,
+     "price":45,
+     "img":"https://www.creativeitinstitute.com/images/course/course_1662637290.jpg"
+
+
+  },
+  {
+    "id": 4,
+    "name": "The Complete Guide Professional Digital Image Editing",
+    "title":"After completing image editing course, you can work in 1000+ clipping industries of the country, starting from internationally renowned e-commerce platforms to wedding photography, merchandise photography.So in our image editing course, from the basic concept of image editing to Image Retouching, Layer Pallet, Tools Based Class, Business Card Design, Facebook Cover Design, our course is arranged with everything important. Moreover, if you successfully complete this 3-month course, you can get a course completion certificate, which will serve as a milestone for your skills. So if you want to become a skilled image editor, then our image editing course can be your first choice.",
+    "rating":4.00,
+     "reviews":79,
+     "total_hours":5,
+     "price":55,
+     "img":"https://www.creativeitinstitute.com/images/course/course_1663051206.jpg"
+
+
+  },
+  {
+    "id": 5,
+    "name": "The Complete Guide Professional Adobe Photoshop",
+    "title":"Web development is the process of making the information stored on the web server as a website through the Internet and making it usable. So as long as there are websites, there will be demand for web development. That is why the scope of work of web developers is increasing day by day.That is why our course is designed with updated modules. Everything from basic SQL to building professional skills is covered here. By doing practical projects you can learn fast and build a smart portfolio during the course. And if you complete the course properly, you will get the course completion certificate. So start your web development career with Creative IT Institute's modern and world class modules and experienced trainers.",
+    "rating":4.5,
+
+    
+     "reviews":1350,
+     "total_hours":6.1,
+     "price":89,
+     "img":"https://www.creativeitinstitute.com/images/course/course_1662639286.jpg"
+
+
+
+  },
+  {
+    "id": 6,
+    "name": "The Complete Guide Professional Adobe Illustrator",
+    "title":"You can create excellent graphics designs, logos, banners using one of the most popular software developed by Adobe Systems. Our Adobe Illustrator course is designed to help you develop your design and color skills. From here you will learn to master the areas of Pen Tool, Stroke, Transformation, Blending, Advanced Color and Concept. Throughout the course you will learn typography. Moreover, you will know the details of any material design such as logo and marketing, only if you take the Adobe Illustrator course, you will be able to make a good place for yourself in the local or marketplace.",
+    "rating":4.7,
+     "reviews":155,
+     "total_hours":4.5,
+     "price":55,
+     "img":"https://www.creativeitinstitute.com/images/course/course_1663052023.jpg"
+
+
+  }
+  
+]
